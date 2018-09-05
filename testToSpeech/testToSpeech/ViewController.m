@@ -25,7 +25,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //dasdasdasdasdsa
     speechSynthesizer = [[AVSpeechSynthesizer alloc] init];
     speechSynthesizer.delegate = self;
     
